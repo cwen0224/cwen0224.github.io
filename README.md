@@ -8,3 +8,6 @@ Preview URL formats:
   `https://cwen0224.github.io/public-preview?endpoint=<gas-endpoint>`
 - Direct preview for a specific script:
   `https://cwen0224.github.io/public-preview?endpoint=<gas-endpoint>&slug=<preview-slug>`
+
+Last updated: 2026-06-08
+
